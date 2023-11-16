@@ -1,61 +1,6 @@
 <html>
 <head>
-  <title>My Portfolio</title>
-  <style>
-    /* Add some style to your page */
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f0f0;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    .header {
-      display: flex;
-      align-items: center;
-    }
-    .photo {
-      width: 150px;
-      height: 150px;
-      border-radius: 50%;
-      object-fit: cover;
-    }
-    .name {
-      font-size: 36px;
-      font-weight: bold;
-      margin-left: 20px;
-    }
-    .bio {
-      margin-top: 20px;
-      font-size: 18px;
-      line-height: 1.5;
-    }
-    .contact {
-      margin-top: 20px;
-      display: flex;
-      gap: 10px;
-    }
-    .contact a {
-      display: inline-block;
-      width: 32px;
-      height: 32px;
-      background-repeat: no-repeat;
-      background-size: contain;
-    }
-    .contact a.github {
-      background-image: url("https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png");
-    }
-    .contact a.linkedin {
-      background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png");
-    }
-    .contact a.email {
-      background-image: url("https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg");
-    }
-  </style>
+  
 </head>
 <body>
   <div class="container">
