@@ -11,13 +11,6 @@
     <div class="bio">
       <!-- Write a short introduction about yourself -->
       <p>Hi, I’m a C# software engineer at Samsung Electronics R&D. I have more than 6 years of experience in developing desktop and mobile applications using C#, .NET, XAML, SQL, and other technologies. I’m skilled in using Git, GitHub, Bitbucket, Confluence, Trello, Jira, and other tools for version control, collaboration, and project management. I’m also familiar with the MVVM and Repository design patterns, and the CI/CD process.</p>
-
-
-
-      <a href="https://github.com/johndoe" class="github"></a>
-      <a href="https://www.linkedin.com/in/johndoe" class="linkedin"></a>
-      <a href="mailto:johndoe@example.com" class="email"></a>
-
   </div>
 </body>
 </html>
