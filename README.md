@@ -12,14 +12,9 @@
     </div>
     <div class="bio">
       <!-- Write a short introduction about yourself -->
-      <p>Hello, I'm John Doe, a web developer and designer based in Brazil. I have over 5 years of experience in creating responsive and user-friendly websites using HTML, CSS, and JavaScript. I'm passionate about learning new technologies and solving problems with creative solutions.</p>
-      <!-- List some of your skills or achievements -->
-      <p>Some of my skills and achievements include:</p>
-      <ul>
-        <li>Creating a portfolio website with GitHub Pages</li>
-        <li>Winning the first prize in a hackathon</li>
-        <li>Building a Chrome extension for watching Hulu shows with friends</li>
-      </ul>
+      <p>Hi, I’m Giovan Barreira, a C# software engineer at Samsung Electronics R&D. I have more than 6 years of experience in developing desktop and mobile applications using C#, .NET, XAML, SQL, and other technologies. I’m skilled in using Git, GitHub, Bitbucket, Confluence, Trello, Jira, and other tools for version control, collaboration, and project management. I’m also familiar with the MVVM and Repository design patterns, and the CI/CD process.</p>
+
+
     </div>
     <div class="contact">
       <!-- Add links to your GitHub, LinkedIn, and email accounts -->
