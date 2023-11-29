@@ -10,7 +10,11 @@
     </div>
     <div class="bio">
       <!-- Write a short introduction about yourself -->
-      <p>Hi, I’m a C# software engineer at Samsung Electronics R&D. I have more than 6 years of experience in developing desktop and mobile applications using C#, .NET, XAML, SQL, and other technologies. I’m skilled in using Git, GitHub, Bitbucket, Confluence, Trello, Jira, and other tools for version control, collaboration, and project management. I’m also familiar with the MVVM and Repository design patterns, and the CI/CD process.</p>
+      <p>Computer Application Engineer (C#, Console, WinUI 3, UWP, WPF, WinForms).
+
+C# desktop application developer since 2011, currently working as Computer Application Engineer at Samsung Electronics R&D (SiDi). With solid knowledge in C# .NET for Desktop development, Singleton, MVVM, MVP, Repository, SQL (SQLite, MySQL, and SQL Server), MVVM, Repository, OOP, SOLID, Clean Code principles, CI/CD, unitary testing, GIT, Bitbucket, Jira and Confluence. 
+
+Portuguese, Spanish, and English fluency.</p>
   </div>
 </body>
 </html>
